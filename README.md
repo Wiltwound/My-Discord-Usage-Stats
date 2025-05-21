@@ -13,6 +13,6 @@ This is a small tool that tracks how many messages you send on Discord — by wa
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/my-discord-usage-stats
+git clone https://github.com/wiltwound/my-discord-usage-stats
 cd my-discord-usage-stats
 pip install -r requirements.txt
